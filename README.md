@@ -1,11 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/litebase-github-readme-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile/litebase-github-readme-banner.png">
-  <img alt="Fallback image description" src="docs/images/litebase-github-readme-banner.png">
-</picture>
+# Litebase .github
+This repository is a central place to place resources and templates for the Litebase GitHub organization. 
 
-
-# About Litebase
-
-Litebase is an open source distributed database built on SQLite, distributed file systems, and object storage.
-
+## Profile
+* README and images for the profile page
