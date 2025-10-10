@@ -1,40 +1,45 @@
-# Litebase Code of Conduct
+# Contributing to Litebase
 
-## Our Pledge
+Thank you for your interest in contributing to Litebase!
+We welcome contributions from everyone and appreciate your help in making the project better.
 
-We are committed to keeping the Litebase community **welcoming, safe, and fair for everyone**.
-All members deserve to be treated with **respect and dignity**, and everyone who participates in good faith is welcome.
+## How to Contribute
 
-## Unacceptable Behavior
+### 💬 Start with a Discussion
 
-The following behaviors are **not allowed** in our community. This includes engaging in, encouraging, or promoting them:
+Before starting work on a major change, please open a discussion in our [Litebase Discussions](https://github.com/orgs/litebase/discussions).
+This helps align ideas early and ensures your effort fits within project goals.
 
-1. **Harassment** – Ignoring personal boundaries or giving unwanted attention after being asked to stop.
-2. **Personal attacks** – Making insulting or demeaning comments toward others.
-3. **Discrimination or stereotyping** – Making assumptions or judgments based on identity or personal traits.
-4. **Sexualized behavior** – Acting inappropriately intimate or suggestive.
-5. **Sharing private information** – Revealing personal details without permission.
-6. **Threats or harm** – Encouraging or causing physical, emotional, or reputational harm.
-7. **Any other behavior** that threatens the safety or well-being of our community.
+### 🐛 Report Bugs
 
-### Additional Restrictions
+If you find a bug, open an issue in the repository.
+Include clear steps to reproduce the problem, your environment details, and any relevant logs or screenshots.
 
-1. **Impersonation** – Pretending to be someone else or evading moderation.
-2. **Plagiarism** – Not crediting the original source of shared work.
-3. **Unwanted promotion** – Posting ads or marketing content outside normal community use.
-4. **Irresponsible communication** – Sharing or linking to content that includes restricted behaviors.
+### 🔧 Submit a Pull Request
 
-## Reporting Issues
+If you’re submitting code:
 
-If you experience or witness a violation, please **email us at [opensource@litebase.com](mailto:opensource@litebase.com)**.
+1. Make sure your changes are tested and follow the existing code style.
+2. Reference any related issues or discussions in your PR description.
+3. Keep commits clear and focused.
+4. Be available for feedback and collaborate in good faith during review.
 
-Reports are taken seriously. Moderators will review incidents carefully, prioritize safety and privacy, and keep communication transparent when possible. Resolutions may involve private discussions or public updates depending on the situation.
+### 🧪 Testing and Code Style
 
-## Scope
+* Add or update tests where applicable.
+* Follow the language’s conventions used in the repository (e.g. `go fmt`, `eslint`, `black`, etc.).
+* Avoid introducing dependencies unless necessary.
 
-This Code of Conduct applies to **all community spaces** and whenever someone represents Litebase — including online discussions, events, and official accounts.
+### 💡 Other Contributions
 
-## Attribution
+We also welcome:
 
-This Code of Conduct is adapted from the **Contributor Covenant v3.0**, available at
-[https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+* Improvements to documentation and examples
+* Enhancements to test coverage
+* Translations, tutorials, or community guides
+* Feedback on design and developer experience
+
+### 🤝 Communication
+
+Be respectful and constructive.
+All contributors are expected to follow the [Litebase Code of Conduct](./CODE_OF_CONDUCT.md).
