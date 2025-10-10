@@ -27,7 +27,7 @@ If you’re submitting code:
 ### 🧪 Testing and Code Style
 
 * Add or update tests where applicable.
-* Follow the language’s conventions used in the repository (e.g. `go fmt`, `eslint`, `black`, etc.).
+* Follow the language’s conventions used in the repository (e.g. `go fmt`, `eslint`, `pint`, etc.).
 * Avoid introducing dependencies unless necessary.
 
 ### 💡 Other Contributions
