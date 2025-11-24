@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="litebase-github-readme-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="litebase-github-readme-banner.svg">
-  <img alt="Fallback image description" src="docs/images/litebase-github-readme-banner.svg">
+  <img alt="Fallback image description" src="litebase-github-readme-banner.svg">
 </picture>
 
 
